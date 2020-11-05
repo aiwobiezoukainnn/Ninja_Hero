@@ -1,0 +1,46 @@
+<languages>
+	<language id="zh" type="latin">
+		<name><![CDATA[当心你的头]]></name>
+		<tips><![CDATA[提示]]></tips>
+		<tips_1><![CDATA[点击屏幕收集白块，注意别碰黑块哦！]]></tips_1>
+		<tips_2><![CDATA[观看广告可获得金币收入。]]></tips_2>
+		<tips_3><![CDATA[刷新纪录！每天仅有一次机会通过分享保存记录哦！是否分享？]]></tips_3>
+		<tips_4><![CDATA[是否花费N金币保存进度？]]></tips_4>
+		<tips_5><![CDATA[没有刷新纪录，不需要保存哦！]]></tips_5>
+		<tips_6><![CDATA[暂时没有广告哦！]]></tips_6>
+		<remove_ads><![CDATA[去广告]]></remove_ads>
+		<continue><![CDATA[继续挑战？]]></continue>
+		<game_over><![CDATA[游戏结束]]></game_over>
+		<score><![CDATA[成绩：]]></score>
+		<save_record><![CDATA[保存记录]]></save_record>
+		<rate_desc><![CDATA[如果你喜欢我们的游戏，就给予我们一些建议吧！ ]]></rate_desc>
+		<ok><![CDATA[确认]]></ok>
+		<cancel><![CDATA[取消]]></cancel>
+		<later><![CDATA[稍后]]></later>
+    <shop><![CDATA[商店]]></shop>
+    <level><![CDATA[关卡]]></level>
+    <back><![CDATA[返回]]></back>
+  </language>
+	<language id="en" type="latin">
+		<name><![CDATA[WatchTheBlack]]></name>
+		<tips><![CDATA[HINT]]></tips>
+		<tips_1><![CDATA[Tap the screen to collect the white block, pay attention not to touched black blocks !]]></tips_1>
+		<tips_2><![CDATA[ Watching ads to earn coin!]]></tips_2>
+		<tips_3><![CDATA[New Record!You only have one chance to save record by sharing each day. Comfirm? ]]></tips_3>
+		<tips_4><![CDATA[Save record will cost your N coins. Comfirm?]]></tips_4>
+		<tips_5><![CDATA[Not a new record, no need to save.]]></tips_5>
+		<tips_6><![CDATA[No ads for current.]]></tips_6>
+		<remove_ads><![CDATA[Ads Free]]></remove_ads>
+		<continue><![CDATA[Continue?]]></continue>
+		<game_over><![CDATA[Game Over]]></game_over>
+		<score><![CDATA[SCORE:]]></score>
+		<save_record><![CDATA[SAVE:]]></save_record>
+		<rate_desc><![CDATA[If you like this game, feel free to give us some suggestion.]]></rate_desc>
+		<ok><![CDATA[YES]]></ok>
+		<cancel><![CDATA[CANCEL]]></cancel>
+		<later><![CDATA[LATER]]></later>
+    <shop><![CDATA[Shop]]></shop>
+    <level><![CDATA[Level]]></level>
+    <back><![CDATA[Back]]></back>
+  </language>
+</languages>
